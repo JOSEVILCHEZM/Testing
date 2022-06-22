@@ -45,4 +45,4 @@ buggy cars es una aplicación web que permite a los usuarios votar por los autos
 2.ALCANCE DE LAS PRUEBAS(¿QUE VAS A PROBAR?)
 Se van a probar las siguientes historias de usuario definidas en el sprint backlog
 
-![](https://i.postimg.cc/mr3vLgSF/3.png)
+![](https://i.postimg.cc/3xY6LTh8/Captura-de-pantalla-2022-06-21-190703.jpg)
