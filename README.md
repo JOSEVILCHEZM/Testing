@@ -31,3 +31,18 @@ SEMANA1 -SEMANA2
 
 AGILE TESTER DURANTE EL SPRINT:
 ![](https://i.postimg.cc/W1HxHVKZ/sprint.png)
+
+AGILE TESTER DURANTE EL SPRINT 
+-AYUDAR AL EQUIPO A LA REVISIÓN DE COMÚN ENTENDIMIENTO DE REQUISITOS.
+
+
+PROYECTO " SITIO WEB Buggy Cars Rating" PLAN DE PRUEBAS LIGHT 
+
+1.INTRODUCCIÓN
+
+buggy cars es una aplicación web que permite a los usuarios votar por los autos deportivos más famosos del mundo y dejar una opinión para marca y modelo. El objetivo de este plan de pruebas es analizar que se va a probar, como, con que recursos y cual es el plan de riegos que hay y su mitagación.
+
+2.ALCANCE DE LAS PRUEBAS(¿QUE VAS A PROBAR?)
+Se van a probar las siguientes historias de usuario definidas en el sprint backlog
+
+![](https://i.postimg.cc/mr3vLgSF/3.png)
