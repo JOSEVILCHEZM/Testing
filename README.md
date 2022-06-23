@@ -71,3 +71,5 @@ TECNICA MUY USADA CUANDO SE ESTÁ REALIZANDO PRUBEAS AGILES, PROBANDO LA FUNCION
 TEST PLAN AGIL
 
 ![](https://i.postimg.cc/4xP5JRD6/test.png)
+
+![](https://i.postimg.cc/VN287203/Captura-de-pantalla-2022-06-23-174230.jpg)
